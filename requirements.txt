@@ -3,5 +3,5 @@ PyPDF2
 langchain
 env
 openai
-
+tiktoken
 
