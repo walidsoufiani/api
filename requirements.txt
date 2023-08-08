@@ -2,3 +2,6 @@ streamlit
 PyPDF2
 langchain
 env
+openai
+
+
